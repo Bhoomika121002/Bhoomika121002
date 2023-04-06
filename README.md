@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BHOOMIKA CHAUDHARY</h1>
 <h3 align="center">Turning ideas into functional solutions with code</h3>
-<img align="center" alt="coding"  width="800" height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="center" alt="coding"  width="800" height="300" src="https://tenor.com/view/programming-gif-25868426"/>
 
 🔭 I’m currently working on **Domain Integrated Project(Cloud+AI_IOT)**
 
