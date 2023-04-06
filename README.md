@@ -35,6 +35,12 @@
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=bhoomika121002&count_private=true&show_icons=true&theme=radical" /></p>
 
+<a align= "center" href="https://github.com/bhoomika121002">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomika121002&theme=radical">
+<img align="right" height="350" width="400" src="https://github.com/bhoomika121002/bhoomika121002/blob/main/auto-draft-16.gif" /> </a>
+</p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=bhoomika121002&count_private=true&theme=radical&show_icons=true" />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomika121002&" alt="bhoomika121002" /></p>
 
 <!-- Connect -->
