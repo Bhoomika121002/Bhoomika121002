@@ -38,8 +38,9 @@
 <!-- Streak -->
 <h2 align="center">My Github Steaks</h2>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomika121002&theme=radical />
-</p>
+<a align= "center" href="https://github.com/bhoomika121002">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomika121002&theme=radical">
+</a>
 
 <!-- Connect -->
 <h1 align="center">Connect with me</h2>
