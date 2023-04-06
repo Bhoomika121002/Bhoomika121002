@@ -35,9 +35,10 @@
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=bhoomika121002&count_private=true&show_icons=true&theme=radical" /></p>
 
+<!-- Streak -->
 <a align= "center" href="https://github.com/bhoomika121002">
-<img alt= "stats card" height="300px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomika121002&theme=radical">
-<img align="center" height="350" width="400" src="https://github.com/bhoomika121002/bhoomika121002/blob/main/auto-draft-16.gif" /> </a>
+<img alt= "stats card" height="400px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomika121002&theme=radical">
+<img align="center" height="400" width="400" src="https://github.com/bhoomika121002/bhoomika121002/blob/main/auto-draft-16.gif" /> </a>
 </p>
 
 <!-- Connect -->
