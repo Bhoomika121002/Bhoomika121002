@@ -8,7 +8,7 @@
 
 📫 How to reach me **chaudharybhoomika12@gmail.com**
 
-<p align="Left"> <img src="https://komarev.com/ghpvc/?username=bhoomika121002&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomika121002" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhoomika121002&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomika121002" /> </p>
 
 </p>
 
