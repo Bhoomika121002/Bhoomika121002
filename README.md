@@ -38,10 +38,9 @@
 <!-- Streak -->
 <h2 align="center">My Github Steaks</h2>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomika121002&theme=radical /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomika121002&theme=radical />
 
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomika121002&theme=radical">
-<img align="center" height="300" width="400" src="https://github.com/bhoomika121002/bhoomika121002/blob/main/auto-draft-16.gif" /> </a>
+<img align="center" height="300" width="400" src="https://github.com/bhoomika121002/bhoomika121002/blob/main/auto-draft-16.gif" /> 
 </p>
 
 <!-- Connect -->
