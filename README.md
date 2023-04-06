@@ -26,6 +26,17 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bhoomika12"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhoomika12" /></a></p><br><br>
 
+<!-- Langs -->
+
+<h2 align="center">Languages used</h2>
+
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika121002&layout=compact&theme=midnight-purple" /></p>
+
+<!-- Stats -->
+<h2 align="center">My Github stats</h2>
+
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=bhoomika121002&count_private=true&show_icons=true&theme=radical" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhoomika121002&show_icons=true&locale=en&layout=compact" alt="bhoomika121002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhoomika121002&show_icons=true&locale=en" alt="bhoomika121002" /></p>
